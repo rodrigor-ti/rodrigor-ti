@@ -1,18 +1,6 @@
-### Olá! Eu sou o Rodrigo Rodrigues, Analista de Sistemas/Tecnologia e Desenvolvedor👩🏻‍💻
+### Olá! Eu sou o Rodrigo Rodrigues👩🏻‍💻 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rodrigues-b654bb64/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigor-ti)](https://github.com/anuraghazra/github-readme-stats)
-
-![rodrigor-ti GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigor-ti&show_icons=true&theme=dark)
-
-## Minhas Tecnologias
-<div style="display: inline_block"><br/>
-<img align="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  
-</div><br/>
 
 Analista de Sistemas | Analista de Tecnologia | Negócios | Requisitos | Metodologia Ágil | Dev | SQL | Java | Python ⏳| Analise de Dados ⏳| Ciência Dados ⏳|
 
@@ -25,3 +13,22 @@ Como Analista de Tecnologia, minhas principais responsabilidades envolveram gere
 Sou apaixonado por dados e tecnologia e acredito no poder transformador da análise de dados para a tomada de decisões estratégicas. Estou sempre em busca de novos desafios que me permitam aplicar meus conhecimentos e habilidades para gerar valor e inovação.
 
 Estou aberto a novas oportunidades que permitam crescimento profissional e colaboração para alcançar grandes resultados. Vamos nos conectar e explorar como podemos trabalhar juntos para transformar desafios em oportunidades!
+
+## Minhas Tecnologias 👩🏻‍💻
+
+![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=Css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigor-ti&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![rodrigor-ti GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigor-ti&show_icons=true&theme=dark)
+
+
+
+
+
