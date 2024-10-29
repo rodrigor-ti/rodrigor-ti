@@ -22,7 +22,10 @@ Estou aberto a novas oportunidades que permitam crescimento profissional e colab
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23ED8B00.svg?style=for-the-badge&logo=powerbi)
+
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigor-ti&bg_color=000&border_color=1589F0&title_color=1589F0&text_color=1589F0)
 ![rodrigor-ti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigor-ti&theme=transparent&bg_color=000&border_color=1589F0&show_icons=true&icon_color=1589F0&title_color=1589F0&text_color=1589F0)
