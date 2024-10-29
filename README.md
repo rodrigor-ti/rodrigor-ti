@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rodrigo Rodrigues👩🏻‍💻 
+### Olá! Eu sou o Rodrigo Rodrigues Analista Desenvolvedor👩🏻‍💻 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rodrigues-b654bb64/)
 
