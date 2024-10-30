@@ -24,7 +24,7 @@ Estou aberto a novas oportunidades que permitam crescimento profissional e colab
 </div>
 
 
-## Minhas Tecnologias 👩🏻‍💻
+## Minhas Tecnologias 👨‍💻
 </div><br/>
 <br>
 <!--- Minhas Tecnologias ---> 
