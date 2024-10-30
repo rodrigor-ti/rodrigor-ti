@@ -1,4 +1,7 @@
-### Olá! Eu sou o Rodrigo Rodrigues Analista Desenvolvedor👩🏻‍💻 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Olá!+Eu+sou+o+Rodrigo+Rodrigues+Analista+Desenvolvedor👩🏻‍💻;" />
+</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rodrigues-b654bb64/)
 
