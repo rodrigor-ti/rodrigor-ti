@@ -16,6 +16,11 @@ Estou aberto a novas oportunidades que permitam crescimento profissional e colab
 
 ## Minhas Tecnologias 👩🏻‍💻
 
+</div><br/>
+<br>
+<!--- Minhas Tecnologias ---> 
+  <div align="center">
+    
 ![Html](https://img.shields.io/badge/Html-blue?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=Css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -25,11 +30,27 @@ Estou aberto a novas oportunidades que permitam crescimento profissional e colab
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23ED8B00.svg?style=for-the-badge&logo=powerbi)
+</div>
+
+ </div><br/>
+<br>
+  <!--- tabelas ---> 
+  <div align="center">
+ <a href="https://github.com/rodrigor-ti">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigor-ti&bg_color=000&border_color=1589F0&title_color=1589F0&text_color=1589F0"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigor-ti&layout=compact&theme=transparent&bg_color=000&border_color=1589F0&show_icons=true&icon_color=1589F0&title_color=1589F0&text_color=1589F0"/>
+</div>
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigor-ti&bg_color=000&border_color=1589F0&title_color=1589F0&text_color=1589F0)
-![rodrigor-ti GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigor-ti&theme=transparent&bg_color=000&border_color=1589F0&show_icons=true&icon_color=1589F0&title_color=1589F0&text_color=1589F0)
 
+ </div><br/>
+<br>
+<!--- snake --->  
+  <div align="center">
+      <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" /></a>
+      <img src="https://resources/img/waving.gif">
+  </div>
+  
 
 
 
