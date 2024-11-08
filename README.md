@@ -10,7 +10,7 @@
 <!--- Sobre mim---> 
 <div align="justify">
 
-Analista de Sistemas | Analista de Tecnologia | Negócios | Requisitos | Metodologia Ágil | Dev | SQL | Java | Python ⏳| Analise de Dados ⏳| Ciência Dados ⏳|
+Analista de Sistemas | Analista de Tecnologia | Analista Desenvolvedor | Negócios | Requisitos | Metodologia Ágil | Dev | SQL | Java | Python ⏳| Analise de Dados ⏳| Ciência Dados ⏳|
 
 Pós-graduando em Ciência de Dados pelo IPOG, com especialização em Engenharia de Sistemas pela ESAB e graduação em Sistemas de Informação pelo Centro Universitário Euro-americana (UNIEURO). Tenho uma sólida experiência como Analista de Tecnologia, Analista de Sistemas, Analista de Negócios e Analista de Dados.
 
