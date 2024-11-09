@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Olá!+Eu+sou+o+Rodrigo+Rodrigues+Analista+Desenvolvedor👨‍💻;" />
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-gilt-beta.vercel.app/index.html](https://portifolio-tiagorsouza.vercel.app/index.html)](https://rodrigor-ti.github.io/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rodrigor-ti.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rodrigues-b654bb64/)
 </h1>
 
