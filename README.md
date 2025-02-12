@@ -11,17 +11,25 @@
 <!--- Sobre mim---> 
 <div align="justify">
 
-Analista de Sistemas | Analista de Tecnologia | Analista Desenvolvedor | Negócios | Requisitos | Metodologia Ágil | Dev | SQL | Java | Python ⏳| Analise de Dados ⏳| Ciência Dados ⏳|
+🚀 Analista Desenvolvedor | Transformação Digital | Análise de Dados & IA
 
-Pós-graduando em Ciência de Dados pelo IPOG, com especialização em Engenharia de Sistemas pela ESAB e graduação em Sistemas de Informação pelo Centro Universitário Euro-americana (UNIEURO). Tenho uma sólida experiência como Analista de Tecnologia, Analista de Sistemas, Analista de Negócios e Analista de Dados.
+Com mais de 10 anos de experiência em sustentação de legados e transformação digital, atuo na integração entre tecnologia e negócios, utilizando metodologias ágeis para entregar soluções eficientes e inovadoras. Tenho grande interesse por desenvolvimento, análise de dados, ciência de dados e inteligência artificial, buscando constantemente novos desafios para gerar valor e impacto estratégico.
 
-Minha trajetória inclui a utilização de metodologias ágeis e a consultoria negocial em legados Delphi/PHP, auxiliando na migração para novas tecnologias. Estou sempre em busca de soluções inovadoras que proporcionem melhorias significativas para as organizações com as quais colaboro.
+Sou apaixonado por tecnologia e acredito no poder da análise de dados para impulsionar a tomada de decisões e o crescimento digital.
 
-Como Analista de Tecnologia, minhas principais responsabilidades envolveram gerenciamento de demandas de desenvolvimento de softwares, manutenção preventiva e correções de softwares legados, definição de prioridades, prospecção de novas tecnologias e soluções alinhadas estrategicamente com as necessidades de negócio. Minhas experiências anteriores como Analista de Sistemas e Analista de Negócios me proporcionaram uma compreensão aprofundada das necessidades organizacionais e de como a tecnologia pode ser utilizada para atendê-las de forma eficiente.
+💡 Habilidades Técnicas (Hard Skills):
+🔹 Análise de Sistemas: Sustentação de legados, desenvolvimento, metodologias ágeis, integração com terceiros e inovação tecnológica.
+🔹 Gestão de Artefatos: Desenvolvimento de histórias de usuários, criação de diagramas e fluxogramas, prototipação de telas, controle de versões e fiscalização técnica de contratos.
+🔹 Análise de Dados: SQL Server & MySQL, otimização de queries, desenvolvimento de dashboards, modelagem e análise de dados.
+🔹 Inteligência Artificial: Fundamentos de IA, Machine Learning (ML), Deep Learning (DL), Large Language Models (LLMs), Processamento de Linguagem Natural (NLP) e Engenharia de Prompts.
 
-Sou apaixonado por dados e tecnologia e acredito no poder transformador da análise de dados para a tomada de decisões estratégicas. Estou sempre em busca de novos desafios que me permitam aplicar meus conhecimentos e habilidades para gerar valor e inovação.
+🛠️ Tecnologias & Ferramentas:
+🔹 Desenvolvimento: HTML, CSS, JavaScript, Node.js, PHP, Java, Python, SVN, Git & GitHub.
+🔹 Banco de Dados: SQL Server, MySQL, Oracle, SQLite, MariaDB.
+🔹 Excel Avançado: Macros, Tabelas Dinâmicas, VBA e fórmulas avançadas.
+🔹 Power BI: Modelagem de dados e criação de dashboards interativos.
 
-Estou aberto a novas oportunidades que permitam crescimento profissional e colaboração para alcançar grandes resultados. Vamos nos conectar e explorar como podemos trabalhar juntos para transformar desafios em oportunidades!
+📩 Vamos conectar e trocar ideias sobre inovação, dados e tecnologia!
 </div>
 
 
