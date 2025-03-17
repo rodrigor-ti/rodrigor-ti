@@ -11,7 +11,7 @@
 <!--- Sobre mim---> 
 <div align="justify">
 
-🚀 Analista Desenvolvedor | Transformação Digital | Análise de Dados & IA
+🚀 Analista Desenvolvedor | Transformação Digital | Análise de Dados & IA 👨‍💻
 
 Com mais de 10 anos de experiência em sustentação de legados e transformação digital, atuo na integração entre tecnologia e negócios, utilizando metodologias ágeis para entregar soluções eficientes e inovadoras. Tenho grande interesse por desenvolvimento, análise de dados, ciência de dados e inteligência artificial, buscando constantemente novos desafios para gerar valor e impacto estratégico.
 
